@@ -1,1 +1,1 @@
-export const aboutText = 'Hello, I am Wenjie'
+export const aboutText = 'Hello, I am Wenjie Huang'
